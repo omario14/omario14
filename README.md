@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](linkedin.com/in/omarbenamorlin/)
 
 ---
 
@@ -44,6 +44,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omario14&ring=2455DD&fire=DD2727&currStreakLabel=4C60DD)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omario14&ring=2455DD&fire=DD2727&currStreakLabel=4C60DD&mode=weekly)](https://git.io/streak-stats)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omario14)](https://github.com/anuraghazra/github-readme-stats)
